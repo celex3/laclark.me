@@ -135,7 +135,7 @@ let's take the partial derivative with respect to $ m $:
 
 $$
 \begin{aligned}
-    \frac{\delta Q}{\delta b} = \sum\limits_{i=0}^n -2x_i(y_i - b - mx_i) &= 0 \\\\
+    \frac{\delta Q}{\delta m} = \sum\limits_{i=0}^n -2x_i(y_i - b - mx_i) &= 0 \\\\
     \sum\limits_{i=0}^n -2(y_ix_i - bx_i - mx_i^2) &= 0 \\\\
 \end{aligned}
 $$
